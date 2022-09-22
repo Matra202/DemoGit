@@ -1,0 +1,48 @@
+---
+projects :
+  - name : class 1 
+    libraries :
+      - name : library1
+        version : 3.1
+        description : ...
+      - name : library2
+        version : 3.1
+        description : ...
+    servers :
+      - name: serveur test
+        URL : URL1
+      - name: serveur d'intégration
+        URL : URL2
+      - name: serveur de production
+        URL : URL3
+  - name : class 2
+    libraries :
+      - name : library1
+        version : 3.1
+        description : ...
+      - name : library2
+        version : 3.1
+        description : ...
+    servers :
+      - name: serveur test
+        URL : URL1
+      - name: serveur d'intégration
+        URL : URL2
+      - name: serveur de production
+        URL : URL3
+  - name : class 3
+    libraries :
+      - name : library1
+        version : 3.1
+        description : ...
+      - name : library2
+        version : 3.1
+        description : ...
+    servers :
+      - name: serveur test
+        URL : URL1
+      - name: serveur d'intégration
+        URL : URL2
+      - name: serveur de production
+        URL : URL3
+

@@ -1,0 +1,84 @@
+<?xml version ="1.0" encoding="iso-8859-1" ?>
+<projects type="POO">
+    <project>
+        <name> class 1 </name>
+        <libraries>
+            <library nom="library1">
+                <version>3.1</version>
+                <description>.....</description>
+            </library>
+            <library nom="library2">
+                <version>3.12</version>
+                <description>.....</description>
+            </library>
+        </libraries>
+        <servers>
+            <server>
+                <name> serveur test</name>
+                <URL> URL1 </URL>
+            </server>
+            <server>
+                <name> serveur d'intégration</name>
+                <URL> URL2 </URL>
+            </server>
+            <server>
+                <name> serveur de production</name>
+                <URL> URL3 </URL>
+            </server>
+        </servers>
+    </project>
+    <project>
+        <name> class 2 </name>
+        <libraries>
+            <library nom="library1">
+                <version>3.1</version>
+                <description>.....</description>
+            </library>
+            <library nom="library2">
+                <version>3.12</version>
+                <description>.....</description>
+            </library>
+        </libraries>
+        <servers>
+            <server>
+                <name> serveur test</name>
+                <URL> URL1 </URL>
+            </server>
+            <server>
+                <name> serveur d'intégration</name>
+                <URL> URL2 </URL>
+            </server>
+            <server>
+                <name> serveur de production</name>
+                <URL> URL3 </URL>
+            </server>
+        </servers>
+    </project>
+    <project>
+        <name> class 3 </name>
+        <libraries>
+            <library nom="library1">
+                <version>3.1</version>
+                <description>.....</description>
+            </library>
+            <library nom="library2">
+                <version>3.12</version>
+                <description>.....</description>
+            </library>
+        </libraries>
+        <servers>
+            <server>
+                <name> serveur test</name>
+                <URL> URL1 </URL>
+            </server>
+            <server>
+                <name> serveur d'intégration</name>
+                <URL> URL2 </URL>
+            </server>
+            <server>
+                <name> serveur de production</name>
+                <URL> URL3 </URL>
+            </server>
+        </servers>
+    </project>
+</projects>
